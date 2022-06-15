@@ -29,3 +29,5 @@ Gaining experience everyday to become a Data Engineer.
 
 [![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRose-95&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--[![More of Wayne's Github stats](https://github-profile-trophy.vercel.app/?username=WayneRose-95&theme=tokyonight)] -->
+
