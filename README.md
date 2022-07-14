@@ -9,7 +9,7 @@ Physics Graduate
 
 Gaining experience everyday to become a Data Engineer. 
 
-- 🔭 I’m currently working on [Metacritic-Webscraper-](https://github.com/WayneRose-95/Metacritic_Webscraper-)
+- 🔭 I’m currently working on [Pinterest-Data-Pipeline](https://github.com/WayneRose-95/Pinterest-Data-Pipeline)
 
 
 
