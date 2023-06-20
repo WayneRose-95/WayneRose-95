@@ -25,7 +25,5 @@ Gaining experience everyday to become a Data Engineer.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WayneRose-95&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneRose-95&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--[![More of Wayne's Github stats](https://github-profile-trophy.vercel.app/?username=WayneRose-95&theme=tokyonight)] -->
 
