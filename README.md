@@ -9,11 +9,9 @@ Physics Graduate
 
 Gaining experience everyday to become a Data Engineer. 
 
-- 🔭 I’m currently working on [Pinterest-Data-Pipeline](https://github.com/WayneRose-95/Pinterest-Data-Pipeline)
+- 🔭 I’m currently working on [MultiRelational_Database](https://github.com/WayneRose-95/MultiRelational_Database)
 
-
-
-- 🌱 I’m currently learning [AWS Certified Data Analytics - Speciality](https://aws.amazon.com/certification/certified-data-analytics-specialty/?trk=dc557659-52ab-4a28-b2b8-0b1fb90235db&sc_channel=ps&sc_campaign=acquisition&sc_medium=GC-TC-DIG-P|PS-GO|Brand|Desktop|AW|Training%20and%20Certification|Certification|UKIR|EN|Text|xx|SEM|PMO21-12347&s_kwcid=AL!4422!3!467401844624!e!!g!!aws%20big%20data%20certification&ef_id=CjwKCAjwjZmTBhB4EiwAynRmD3cgzSgIPuNp74ry4xlgvvYyGPO9Qr4JADwmwva_vD8HPyXf01JBDhoC-XIQAvD_BwE:G:s&s_kwcid=AL!4422!3!467401844624!e!!g!!aws%20big%20data%20certification)
+- 🌱 I’m currently learning [Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI](https://learn.microsoft.com/en-us/certifications/exams/dp-500/)
 
 
 <h3 align="left">You can find me on:</h3>
