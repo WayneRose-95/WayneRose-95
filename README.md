@@ -11,7 +11,7 @@ Gaining experience everyday to become a Data Engineer.
 
 - 🔭 I’m currently working on [Web-App-DevOps-Project](https://github.com/WayneRose-95/Web-App-DevOps-Project)
 
-- 🌱 I’m currently learning [HashiCorp Terraform Associate 003](https://www.hashicorp.com/certification/terraform-associate))
+- 🌱 I’m currently learning [HashiCorp Terraform Associate 003](https://www.hashicorp.com/certification/terraform-associate)
 
 
 <h3 align="left">You can find me on:</h3>
