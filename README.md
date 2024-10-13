@@ -9,9 +9,9 @@ Physics Graduate
 
 Gaining experience everyday to become a Data Engineer. 
 
-- 🔭 I’m currently working on [Web-App-DevOps-Project](https://github.com/WayneRose-95/Web-App-DevOps-Project)
+- 🔭 I’m currently working on [job-scraper-](https://github.com/WayneRose-95/job-scraper-)
 
-- 🌱 I’m currently learning [Microsoft Certified: Azure Data Engineer](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification)
+- 🌱 I’m currently learning [ClickHouse Certified Developer Exam](https://clickhouse.com/learn/certification)
 
 
 <h3 align="left">You can find me on:</h3>
