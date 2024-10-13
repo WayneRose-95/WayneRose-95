@@ -25,8 +25,10 @@ Gaining experience everyday to become a Data Engineer.
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-<img src="https://github.com/WayneRose-95/Web-App-DevOps-Project/assets/89411656/f8105d43-1469-457c-a568-29e94bbc0196" alt="terraform" width="40" height="40"/> </a></p>
+<img src="https://github.com/WayneRose-95/Web-App-DevOps-Project/assets/89411656/f8105d43-1469-457c-a568-29e94bbc0196" alt="terraform" width="40" height="40"/> </a>
 
+<a href="https://geopy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+<img src="https://github.com/user-attachments/assets/98ee6174-bcbc-4832-91b1-6a2690d83db9" alt="GeoPy" width="40" height="40"/> </a></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WayneRose-95&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
